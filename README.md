@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rockabilly-lobster
 - 👀 I’m interested in baking and gardening
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning how to make changes
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me I'm a hermt crab
 
